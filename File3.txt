@@ -1,0 +1,1 @@
+This is a third file. It has been created in the temp-branch and will not be added to the master.
